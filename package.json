@@ -1,0 +1,19 @@
+{
+  "name": "5.6.22_mongooseEliyoAgasha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node readVetPet.js",
+    "start:w": "nodemon readVetPet.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "mongoose": "^6.3.5"
+  }
+}
